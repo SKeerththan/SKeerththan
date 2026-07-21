@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋 I'm S. Keerththan
 
-<!--
-**SKeerththan/SKeerththan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Software Engineer
 
-Here are some ideas to get you started:
+I'm a passionate software engineer from Sri Lanka with experience building modern web applications using Python, Django, React, JavaScript, PostgreSQL, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- 🌾 HarvestHub – Smart Agriculture Platform
+- 🏥 10ly – Healthcare Platform
+- 🎓 Katror Peravai – Educational Platform
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+
+### Database
+- PostgreSQL
+- MySQL
+
+### Cloud & Tools
+- AWS
+- Linux
+- Docker
+- Git
+- GitHub
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/keerththan-subaschandrabose-643314197/
+
+Thanks for visiting my profile! 🚀
